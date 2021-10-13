@@ -1,12 +1,12 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-#include"Shivyansh.h"
-#include"Yashovardhan.h"
-#include"Divyam.h"
-#include"Rizwan.h"
-#include"Neelabh.h"
-#include"Nidhish.h"
+#include"1.h"
+#include"2.h"
+#include"3.h"
+#include"4.h"
+#include"5.h"
+#include"6.h"
 
 void menu(void)
 {
